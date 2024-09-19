@@ -6,7 +6,7 @@ This application is written in JavaScript and currently displays Hello World whe
 
 This project is the start of a series of sprints where I wil showcase my skills in programming in a broad range of applications.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/ffcB2Ft-Cl0)
 
 # Development Environment
 
