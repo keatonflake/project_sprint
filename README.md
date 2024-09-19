@@ -14,6 +14,4 @@ This is a JavaScript file that prints words in the console when run with Node.js
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-
 This will be updated when I have web sources to share.
